@@ -1,0 +1,6 @@
+{
+  "name": "Velocita",
+  "description": "Yapay zeka teknolojisiyle güçlendirilmiş, seçkin bir tasarıma sahip premium otomobil tarama, analiz ve keşif uygulaması.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
